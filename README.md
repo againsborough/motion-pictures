@@ -18,10 +18,16 @@ Features some of the most iconic movies, anime of all time.
 | Chinatown | 1974 | Thriller, Mystery |
 | Taxi Driver | 1976 | Thriller |
 | Alien | 1979 | Sci-fi |
+| Back to the Future | 1985 | Sci-fi, Comedy |
 | The Shawshank Redemption | 1994 | Drama |
-| As Good As It Gets | 1997 | Romance, Comedy |
+| As Good As It Gets | 1997 | Romantic comedy |
 | Good Will Hunting | 1997 | Drama |
 | Saving Private Ryan | 1998 | Epic, War |
+
+### Movies from the 21st century
+
+| Movie(s) | Year(s) | Genre(s) |
+| :---   | :---  | :--- |
 | The Lord of the Rings (trilogy) | 2001, 2002, 2003 | Fantasy |
 
 ### Anime
