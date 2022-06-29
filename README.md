@@ -7,10 +7,22 @@ Features some of the most iconic movies, anime of all time.
 | Movie(s) | Year(s) | Genre(s) |
 | :---   | :---  | :--- |
 | It Happened One Night | 1934 | Romantic comedy |
+| Gone with the Wind | 1939 | Epic |
 | Mr. Smith Goes to Washington | 1939 | Comedy, Drama |
+| Casablanca | 1942 | Drama |
+| It's a Wonderful Life | 1946 | Fantasy |
+| On the Waterfront | 1954 | Crime |
 | Vertigo | 1958 | Mystery, Thriller |
-| Chinatown | 1974 | Neo-noir, Thriller, Mystery |
+| The Godfather | 1972 | Crime |
+| The Godfather Part II | 1974 | Crime |
+| Chinatown | 1974 | Thriller, Mystery |
+| Taxi Driver | 1976 | Thriller |
+| Alien | 1979 | Sci-fi |
+| The Shawshank Redemption | 1994 | Drama |
 | As Good As It Gets | 1997 | Romance, Comedy |
+| Good Will Hunting | 1997 | Drama |
+| Saving Private Ryan | 1998 | Epic, War |
+| The Lord of the Rings (trilogy) | 2001, 2002, 2003 | Fantasy |
 
 ### Anime
 
