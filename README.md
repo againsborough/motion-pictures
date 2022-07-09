@@ -29,6 +29,7 @@ Features some of the most iconic movies, anime of all time.
 | Movie(s) | Year(s) | Genre(s) |
 | :---   | :---  | :--- |
 | The Lord of the Rings (trilogy) | 2001, 2002, 2003 | Fantasy |
+| The Social Network | 2010 | Historical drama |
 
 ### Anime
 
