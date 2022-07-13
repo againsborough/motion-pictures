@@ -18,6 +18,7 @@ Features some of the most iconic movies, anime of all time.
 | Chinatown | 1974 | Thriller, Mystery |
 | Taxi Driver | 1976 | Thriller |
 | Alien | 1979 | Sci-fi |
+| Airplane! | 1980 | Romantic comedy |
 | Back to the Future | 1985 | Sci-fi, Comedy |
 | The Shawshank Redemption | 1994 | Drama |
 | As Good As It Gets | 1997 | Romantic comedy |
