@@ -13,6 +13,7 @@ Features some of the most iconic movies, anime of all time.
 | It's a Wonderful Life | 1946 | Fantasy |
 | On the Waterfront | 1954 | Crime |
 | Vertigo | 1958 | Mystery, Thriller |
+| Dr. Strangelove | 1964 | Comedy, War |
 | The Godfather | 1972 | Crime |
 | The Godfather Part II | 1974 | Crime |
 | Chinatown | 1974 | Thriller, Mystery |
